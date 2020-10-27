@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Unisys.ExceptionHandling">
+      <HintPath>..\Third Party Dll\Unisys.ExceptionHandling.dll</HintPath>
+    </Reference>
+    <Reference Include="Unisys.Logging">
+      <HintPath>..\Third Party Dll\Unisys.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Unisys.Validation">
+      <HintPath>..\Third Party Dll\Unisys.Validation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

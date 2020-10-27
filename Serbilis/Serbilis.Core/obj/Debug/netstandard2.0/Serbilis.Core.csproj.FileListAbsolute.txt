@@ -1,0 +1,46 @@
+C:\Users\KhanChir\source\repos\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.deps.json
+C:\Users\KhanChir\source\repos\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.dll
+C:\Users\KhanChir\source\repos\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.pdb
+C:\Users\KhanChir\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.csprojAssemblyReference.cache
+C:\Users\KhanChir\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.AssemblyInfoInputs.cache
+C:\Users\KhanChir\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.AssemblyInfo.cs
+C:\Users\KhanChir\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.csproj.CoreCompileInputs.cache
+C:\Users\KhanChir\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.dll
+C:\Users\KhanChir\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.pdb
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.deps.json
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.pdb
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\bin\Debug\netstandard2.0\Unisys.ExceptionHandling.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\bin\Debug\netstandard2.0\Unisys.Logging.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\bin\Debug\netstandard2.0\Unisys.Validation.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.AssemblyInfoInputs.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.AssemblyInfo.cs
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.csproj.CoreCompileInputs.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.csproj.CopyComplete
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.deps.json
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Unisys.ExceptionHandling.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Unisys.Logging.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Unisys.Validation.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.csprojAssemblyReference.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.AssemblyInfoInputs.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.AssemblyInfo.cs
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.csproj.CoreCompileInputs.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.csproj.CopyComplete
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.deps.json
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Serbilis.Core.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Unisys.ExceptionHandling.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Unisys.Logging.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\bin\Debug\netstandard2.0\Unisys.Validation.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.AssemblyInfoInputs.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.AssemblyInfo.cs
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.csproj.CoreCompileInputs.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.csproj.CopyComplete
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Core\obj\Debug\netstandard2.0\Serbilis.Core.pdb

@@ -1,0 +1,54 @@
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Application.deps.json
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Application.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Application.pdb
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Core.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.Cryptography.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.ExceptionHandling.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.Logging.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.Localization.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Core.pdb
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.pdb
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.csprojAssemblyReference.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.AssemblyInfoInputs.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.AssemblyInfo.cs
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.csproj.CoreCompileInputs.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.csproj.CopyComplete
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Application.deps.json
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Application.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Application.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Core.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.Cryptography.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.ExceptionHandling.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.Logging.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.Localization.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Core.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.csprojAssemblyReference.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.AssemblyInfoInputs.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.AssemblyInfo.cs
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.csproj.CoreCompileInputs.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.csproj.CopyComplete
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Application.deps.json
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Application.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Application.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Core.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.Cryptography.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.ExceptionHandling.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.Logging.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Unisys.Localization.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.Core.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.csprojAssemblyReference.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.AssemblyInfoInputs.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.AssemblyInfo.cs
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.csproj.CoreCompileInputs.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.csproj.CopyComplete
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis.Application\obj\Debug\netcoreapp3.1\Serbilis.Application.pdb

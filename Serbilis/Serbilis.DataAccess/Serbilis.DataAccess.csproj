@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.35" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="3.1.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.9" />
+    <PackageReference Include="Ninject.Extensions.Interception" Version="3.3.5" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Serbilis.Core\Serbilis.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Unisys.Cryptography">
+      <HintPath>..\Third Party Dll\Unisys.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Unisys.ExceptionHandling">
+      <HintPath>..\Third Party Dll\Unisys.ExceptionHandling.dll</HintPath>
+    </Reference>
+    <Reference Include="Unisys.Localization">
+      <HintPath>..\Third Party Dll\Unisys.Localization.dll</HintPath>
+    </Reference>
+    <Reference Include="Unisys.Logging">
+      <HintPath>..\Third Party Dll\Unisys.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Unisys.Validation">
+      <HintPath>..\Third Party Dll\Unisys.Validation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

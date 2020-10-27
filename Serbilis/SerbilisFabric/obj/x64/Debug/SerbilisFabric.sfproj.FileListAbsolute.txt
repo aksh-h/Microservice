@@ -1,0 +1,2 @@
+C:\Users\vijayara\source\repos\FabricFacilityManager\SerbilisFabric\obj\x64\Debug\SerbilisFabric.sfproj.CoreCompileInputs.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\SerbilisFabric\obj\x64\Debug\SerbilisFabric.sfproj.CoreCompileInputs.cache

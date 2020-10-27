@@ -1,0 +1,318 @@
+C:\Users\KhanChir\source\repos\Serbilis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\KhanChir\source\repos\Serbilis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\KhanChir\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.AssemblyInfoInputs.cache
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.AssemblyInfo.cs
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.RazorTargetAssemblyInfo.cache
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\staticwebassets\Serbilis.StaticWebAssets.Manifest.cache
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\staticwebassets\Serbilis.StaticWebAssets.xml
+C:\Users\KhanChir\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.exe
+C:\Users\KhanChir\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.deps.json
+C:\Users\KhanChir\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.runtimeconfig.json
+C:\Users\KhanChir\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.runtimeconfig.dev.json
+C:\Users\KhanChir\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.dll
+C:\Users\KhanChir\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.pdb
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csproj.CoreCompileInputs.cache
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.dll
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.pdb
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.genruntimeconfig.cache
+C:\Users\KhanChir\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csprojAssemblyReference.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.exe
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.deps.json
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.runtimeconfig.json
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.runtimeconfig.dev.json
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.pdb
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Ninject.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Ninject.Extensions.Interception.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Application.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Core.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Unisys.Cryptography.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Unisys.ExceptionHandling.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Unisys.Logging.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Unisys.Localization.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Application.pdb
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Core.pdb
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.pdb
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csprojAssemblyReference.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.AssemblyInfoInputs.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.AssemblyInfo.cs
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csproj.CoreCompileInputs.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.RazorTargetAssemblyInfo.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csproj.CopyComplete
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\staticwebassets\Serbilis.StaticWebAssets.Manifest.cache
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\staticwebassets\Serbilis.StaticWebAssets.xml
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.dll
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.pdb
+C:\Users\SPKarthi\work\R&D\PSA\Serbilis\source\repos\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.genruntimeconfig.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.exe
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.deps.json
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.runtimeconfig.json
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.runtimeconfig.dev.json
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Ninject.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Ninject.Extensions.Interception.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Application.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Core.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Unisys.Cryptography.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Unisys.ExceptionHandling.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Unisys.Logging.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Unisys.Localization.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Application.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Core.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csprojAssemblyReference.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.AssemblyInfoInputs.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.AssemblyInfo.cs
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csproj.CoreCompileInputs.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.MvcApplicationPartsAssemblyInfo.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.RazorTargetAssemblyInfo.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csproj.CopyComplete
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\staticwebassets\Serbilis.StaticWebAssets.Manifest.cache
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\staticwebassets\Serbilis.StaticWebAssets.xml
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.dll
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.pdb
+C:\APP Modern\Migration\Modern\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.genruntimeconfig.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.exe
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.deps.json
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.runtimeconfig.json
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.runtimeconfig.dev.json
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Internal.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Preview.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Fabric.Management.ServiceModel.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Fabric.Strings.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Fabric.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.AspNetCore.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.AspNetCore.Kestrel.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Services.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Ninject.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Ninject.Extensions.Interception.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.McgInterop.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Preview.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.Management.ServiceModel.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.McgInterop.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.Strings.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Private.CompilerServices.ICastable.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Private.Interop.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Preview.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.Management.ServiceModel.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.Strings.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Application.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Core.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Unisys.Cryptography.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Unisys.ExceptionHandling.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Unisys.Logging.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Unisys.Localization.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Application.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.Core.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\bin\Debug\netcoreapp3.1\Serbilis.DataAccess.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csprojAssemblyReference.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.AssemblyInfoInputs.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.AssemblyInfo.cs
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csproj.CoreCompileInputs.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.RazorTargetAssemblyInfo.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.csproj.CopyComplete
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\staticwebassets\Serbilis.StaticWebAssets.Manifest.cache
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\staticwebassets\Serbilis.StaticWebAssets.xml
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.dll
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.pdb
+C:\Source\Repos\Application Services SI Roadmap\Mocroservices\Serbilis\Serbilis\obj\Debug\netcoreapp3.1\Serbilis.genruntimeconfig.cache
